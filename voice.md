@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Voice
+nav_order: 2
 ---
 # Voice
 RYTES Company's organizational voice can be described as Authoritative, Simple, and Human. We want to be relatable, knowledgeable, and referencable when we are communicating with our clients. Since clients might rely on our words in a court of law, we need to get things right. We also need to be clear and specific when we say things. We want to avoid any ambiguous statements, and we want clients to feel as if we've got their back. We need to translate obtuse legalese into everyday English, but without losing meaning in the process.

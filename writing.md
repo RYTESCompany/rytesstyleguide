@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Writing Style
+nav_order: 5
 ---
 
 # Writing Style

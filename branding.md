@@ -2,6 +2,7 @@
 layout: default
 title: Branding
 ---
+# Branding
 
 RYTES Company is our primary brand and is the name that we present to our clients. While there are many other companies that contribute to our product, RYTES Company is front and center. When clients interact with our products, they are expecting to interact with RYTES Company, so our titles, branding, logos, and verbiage should all reflect that.
 

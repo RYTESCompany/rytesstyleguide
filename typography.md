@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Typography
+nav_order: 3
 ---
 # Typography
 

@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Email Templates
-nav_order: 100
+nav_order: 99
+has_children: true
 ---
 # Email Templates
 

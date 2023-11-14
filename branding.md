@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Branding
+nav_order: 1
 ---
 # Branding
 

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Mascots
+nav_order: 6
 ---
 # Mascots
 

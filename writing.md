@@ -18,6 +18,6 @@ Use standard American spelling and punctuation.
 
 Put conditions before instructions, not after.
 
-For usage and spelling of specific words, see the word list.
+Use the word "and" instead of an ampersand (&).
 
-Use sentence case for document titles and section headings.
+Use a colons instead of dashes to separate content within a list.

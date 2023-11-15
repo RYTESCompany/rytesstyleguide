@@ -4,9 +4,6 @@ theme: just-the-docs
 
 url: https://skellyrytes.github.io/rytesstyleguide
 
-aux_links:
-  Template Repository: https://github.com/skellyrytes/rytesstyleguide
-
 color_scheme: dark
 
 callouts:

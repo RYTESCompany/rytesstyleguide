@@ -21,3 +21,5 @@ Put conditions before instructions, not after.
 Use the word "and" instead of an ampersand (&).
 
 Use a colons instead of dashes to separate content within a list.
+
+Avoid using abbreviations that are not widely known. QAPI, QRG, SNF should be spelled out. If abbreviations are necessary, define the abbreviation at the top of the document, and continue to use the abbreviation consistently throughout the rest of the text.

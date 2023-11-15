@@ -23,6 +23,12 @@ Always be precise when writing a time. Noon and Midnight are OK.
 
 Always include the timezone when communicating a time. This can take the form of "your local time" - for example, "Let's schedule the meeting for 3pm your local time". 
 
+## Phone numbers
+
+Always type phone numbers in the following format: (888) 555-0199
+
+If a phone number uses an extension, add a comma and type out the word extension for clarity: (888) 555-0198, extension 567
+
 ## Font
 
 Text on the web should always be sans-serif (without pen strokes), because sans-serif fonts are more readable on screens. The font we use should also be available by default on Windows and Mac platforms, so we don't need to embed the font files, wait for the user to download, etc. This will allow our communication to maintain a consistent look no matter who views it on any device.

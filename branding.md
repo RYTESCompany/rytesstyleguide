@@ -7,7 +7,7 @@ nav_order: 1
 
 RYTES Company is our primary brand and is the name that we present to our clients. While there are many other companies that contribute to our product, RYTES Company is front and center. When clients interact with our products, they are expecting to interact with RYTES Company, so our titles, branding, logos, and verbiage should all reflect that.
 
-### Company Name
+### Company name
 
 *Would be good to know where the name of the company comes from. Is the word "Company" redundant? Does RYTES stand for something?*
 
@@ -21,7 +21,7 @@ Always uppercase RYTES. Always capitalize Company. Always a space between the wo
 ❌ The RYTES Company
 ```
 
-### Company Slogan
+### Company slogan
 
 <span style="font-variant:small-caps;">Effective Regulatory Navigation</span> should never be in quotes. 
 
@@ -45,7 +45,7 @@ There should be no period after the slogan.
 - The RYTE way to navigate regulations
 - Know your RYTES
 
-### Product Names
+### Product names
 
 Always uppercase RYTES, and always present the product name as one word. This applies to RYTESite and RYTESInsights. 
 

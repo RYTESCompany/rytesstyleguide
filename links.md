@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Links & Actions
+title: Links and actions
 nav_order: 4
 ---
-# Links and Actions
+# Links and actions
 
 Never use "Click here" or "Tap here" as the text for an action. This is ambiguous, device-specific, and does not indicate what will happen when the button is used.
 

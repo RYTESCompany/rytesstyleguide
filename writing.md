@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Writing Style
+title: Writing style
 nav_order: 5
 ---
 
-# Writing Style
+# Writing style
 
 Use a single space after a period, and no space before a period.
 

@@ -23,8 +23,8 @@ Simple voice means we are sending a message that everyone can understand, whethe
 ## Human
 Human voice means that while we are experts, we are people too, and understand what it's like to be in this situation. We are working to find a solution that works for everyone involved, and are here to make sure everyone feels heard.
 
-### Client-facing Voice
+### Client-facing voice
 When speaking to clients, we want to emphasize the Authoritative and Simple parts of our brand's Voice. We can be a little less human when speaking to clients, because it's all business here.
 
-### Resident-facing Voice
+### Resident-facing voice
 When speaking to residents or their loved ones, we want to emphasize the Simple and Human parts of our brand's Voice. When dealing with complaints from real people, more than anything we just want to be good listeners.

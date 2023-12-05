@@ -9,28 +9,33 @@ We should avoid using italics and bold unless absolutely necessary or for specif
 
 ## Headings and titles
 
-Headings and titles should always use sentence case.
+Headings and titles should always use sentence case. Capitalize the first word, everything following that is not a proper noun should be lowercase.
 
 Use proper heading hierarchy for headings and titles- h3 should always follow h2, after h1, etc.
 
-Do not use punctuation in headings and titles
+Do not use punctuation in headings and titles.
 
 ## Dates and times
 
-Always use the "Mon, Day, Year" format when writing dates - Jan 10, 1990. This is preferable to 1/10/2023 - that would be October 1st in the UK, but January 10th in the US. Avoid ambiguity- write out the name of the month. Abbreviation is fine. 
+Use the "Month, Day, Year" format when writing dates - Jan 10, 1990. This is preferable to 1/10/2023 - that would be October 1st in the UK, but January 10th in the US. Avoid ambiguity- write out the name of the month. Abbreviation is fine. You may include the name of the day of the week at the beginning of the date if you'd like.
 
-Always be precise when writing a time. Noon and Midnight are OK.
+Be precise when writing a time. Noon and Midnight are OK.
 
-Always include the timezone when communicating a time. This can take the form of "your local time" - for example, "Let's schedule the meeting for 3pm your local time". 
+Include the timezone when communicating a time. This can take the form of "your local time" - for example, "Let's schedule the meeting for 3pm Mountain time". 
 
 ## Phone numbers
 
-Always type phone numbers in the following format: (888) 555-0199
+Type phone numbers in the following format: (888) 555-0199
 
-If a phone number uses an extension, add a comma and type out the word extension for clarity: (888) 555-0198, extension 567
+If a phone number uses an extension: (888) 555-0198 ext. 567
+
+## Ordered List
+
+When using nested ordered list: Numbers, lowercase letters, uppercase letters, lowercase roman numerals, uppercase roman numerals. In HTML, you can define the root list (`<ol>` tag) as follows:
+`<ol type="1|a|A|i|I"> ... </ol>`
 
 ## Font
 
-Text on the web should always be sans-serif (without pen strokes), because sans-serif fonts are more readable on screens. The font we use should also be available by default on Windows and Mac platforms, so we don't need to embed the font files, wait for the user to download, etc. This will allow our communication to maintain a consistent look no matter who views it on any device.
+Text that will primarily be shown on screens should always be sans-serif, and Arial is the recommended font.
 
-All RYTES Company communication should use the Arial font for body copy.
+Always follow guidelines for specific cases. For example, if a courtroom has a preferred style, use that over the RYTES Company's style. 

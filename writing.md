@@ -12,7 +12,7 @@ Use the [Serial Comma](https://www.merriam-webster.com/video/serial-comma) where
 
 Use a colon instead of dashes to separate content within a list.
 
-Use second person: "you" rather than "we."
+Use first person when making recommendations- "We suggest that you follow the instructions of the local police department."
 
 Use active voice: make clear who's performing the action.
 

@@ -44,6 +44,7 @@ There should be no period after the slogan.
 - Navigating regulation the RYTES way
 - The RYTE way to navigate regulations
 - Know your RYTES
+- Committed to your success
 
 ### Product names
 

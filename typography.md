@@ -21,7 +21,7 @@ Use the "Month, Day, Year" format when writing dates - Jan 10, 1990. This is pre
 
 Be precise when writing a time. Noon and Midnight are OK.
 
-Include the timezone when communicating a time. This can take the form of "your local time" - for example, "Let's schedule the meeting for 3pm Mountain time". 
+Include the timezone when communicating a time. For example: "Let's meet at 3pm Eastern Time, OK?" Schedule meetings for Eastern time unless there's a good reason not to.
 
 ## Phone numbers
 
@@ -38,4 +38,4 @@ When using nested ordered list: Numbers, lowercase letters, uppercase letters, l
 
 Text that will primarily be shown on screens should always be sans-serif, and Arial is the recommended font.
 
-Always follow guidelines for specific cases. For example, if a courtroom has a preferred style, use that over the RYTES Company's style. 
+Follow guidelines for specific cases. For example, if a courtroom has a preferred style, use that over the RYTES Company's style. 

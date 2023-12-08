@@ -8,7 +8,7 @@ nav_order: 5
 
 Use a single space after a period, and no space before a period.
 
-Use the Serial/Oxford Comma where applicable. 
+Use the [Serial Comma](https://www.merriam-webster.com/video/serial-comma) where applicable. 
 
 Use a colon instead of dashes to separate content within a list.
 

@@ -48,11 +48,13 @@ There should be no period after the slogan.
 
 ### Product names
 
-Always uppercase RYTES, and always present the product name as one word. This applies to RYTESite and RYTESInsights. 
+Always uppercase RYTES, and always present the product name as one word. This applies to RYTESite and RYTESInsight. 
 
-No longer refer to "the portal", or "the internal site", or "the client portal". From now on, only use the branded terms "RYTESite" for the client-facing portal, and "RYTESInsight" for the internal dashboard.
+No longer refer to "the portal", or "the internal site", or "the client portal". From now on, only use the branded terms "RYTESite Portal" for the client-facing portal, and "RYTESInsight" for the internal dashboard.
 
-*Since RYTESite is external, and RYTESInsights is internal, should it be stylized as RYTESInsite?*
+## Tutorials and FAQs
+
+Currently our tutorials and FAQs are Quick Reference Guides (QRGs). We are rebranding them as "Know your RYTES". 
 
 ## Logo
 

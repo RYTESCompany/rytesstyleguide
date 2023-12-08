@@ -4,4 +4,8 @@ title: Legal
 ---
 # Legal
 
-Make sure whatever you're building has a link to our Privacy Policy and our Terms of Service.
+Transactional emails should have footer links to the privacy policy and terms of service.
+
+Person to person (non-automated) emails should include a disclaimer statement.
+
+Specific emails (like billing) are not required to include links or disclaimers.

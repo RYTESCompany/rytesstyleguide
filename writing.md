@@ -19,7 +19,7 @@ Use a colon instead of dashes to separate content within a list.
 
 Use first person when making recommendations- "We suggest that you follow the instructions of the local police department."
 
-Use active voice: make clear who's performing the action.
+Use [active voice](https://developers.google.com/style/voice): make clear who's performing the action.
 
 Use standard American spelling and punctuation.
 

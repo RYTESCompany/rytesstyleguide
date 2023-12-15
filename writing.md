@@ -12,9 +12,9 @@ Use the [Serial Comma](https://www.merriam-webster.com/video/serial-comma) where
 
 Use a colon instead of dashes to separate content within a list.
 
-- Good example: using a colon
+- ✔️ Good example: using a colon
 - Bad example- using a dash instead.
-- Updated feature: colors are now standardized (good)
+- ✔️ Updated feature: colors are now standardized (good)
 - Removed functionality- case creation for internal users (bad)
 
 Use first person when making recommendations- "We suggest that you follow the instructions of the local police department."

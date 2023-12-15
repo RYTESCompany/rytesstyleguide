@@ -17,7 +17,7 @@ Do not use punctuation in headings and titles.
 
 ## Dates and times
 
-Use the "Month, Day, Year" format when writing dates - Jan 10, 1990. This is preferable to 1/10/2023 - that would be October 1st in the UK, but January 10th in the US. Avoid ambiguity- write out the name of the month. Abbreviation is fine. You may include the name of the day of the week at the beginning of the date if you'd like.
+Use the "Month, Day, Year" format when writing dates - Jan 10, 1990. This is preferable to 1/10/2023 - that would be October 1st in the UK, but January 10th in the US. Avoid ambiguity- write out the name of the month. Abbreviation is fine. You may include the name of the day of the week at the beginning of the date if you'd like. For example: Monday, Jan 10, 2024, or Fri. Oct 23rd, 2024.  
 
 Be precise when writing a time. Noon and Midnight are OK.
 

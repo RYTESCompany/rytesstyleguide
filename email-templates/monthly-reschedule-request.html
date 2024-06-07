@@ -1,5 +1,5 @@
 ---
-title: Monthly Reminder
+title: Monthly Reschedule Request
 parent: Email templates
 ---
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
@@ -1451,18 +1451,18 @@ body.outlook p {
                             <table>
                               <tr>
                                 <th>
-                                  <h1 style="font-variant: small-caps">Upcoming Compliance Check-in</h1>
+                                  <h1 style="font-variant: small-caps">Following-Up: Compliance Check-in</h1>
                                   <!-- <p class="lead">Thursday, Nov. 9th at 1:00pm</p> -->
                                   
-                                  <table class="callout">
+                                  <!-- <table class="callout">
                                     <tr>
                                       <th class="callout-inner primary">
                                         <span class="lead text-center"><strong>Thursday, Nov. 9th at 1:00pm</strong></span>
                                       </th>
                                       <th class="expander"></th>
                                     </tr>
-                                  </table>
-                                  <table align="center" class="row">
+                                  </table> -->
+                                  <!-- <table align="center" class="row">
                                     <tbody>
                                       <tr>
                                         <th class="small-6 large-6 columns first">
@@ -1471,17 +1471,17 @@ body.outlook p {
                                         <th></th>
                                       </tr>
                                     </tbody>
-                                  </table>
+                                  </table> -->
                                   <!-- <h2>Title Ipsum <small>This is a note.</small></h2> -->
-                                  <p>Hey [Facility_Name] Compliance Team! It's almost time for your Monthly Compliance Check-in. We are looking forward to having a rich, data-driven discussion with you. In order to make our meeting as productive as possible, prior to the meeting, please don't forget to:</p>
-                                  <ul>
-                                    <li>Review and update your Facility Contacts if they are out of date</li>
-                                    <li>Review Quality Metrics</li>
-                                    <li>Fill out the Questionnaire</li>
-                                    <li>Review RYTESBytes for relevant updates or resources</li>
-                                  </ul>
+                                  <p>Hey {!var_Case.Account_Name__c} Compliance Team!</p>
+                                  <p>The compliance manual, the monthly check-ins and the hotline complaints process are all part of the compliance program that your facility pays for and is required by Federal and state <a href="https://guidelines.ussc.gov/apex/r/ussc_apex/guidelinesapp/guidelines?app_gl_id=%C2%A78B2.1">law.</a></p>
+                                  <p>The origins of an effective compliance program come from the U.S. Sentencing Guidelines. The U.S. Sentencing Guidelines are used by federal judges when they are determining what penalty to impose on a company that has been charged with a federal crime. Since having an effective compliance program, allows a judge to impose a lesser penalty or a sentence on an entity, it makes sense to invest in one. (USSG Section 8B2.1)</p>
+                                  <p>The difficulty with connecting on a routine basis for the compliance check-ins has the potential to adversely affect the facility from a regulatory perspective. Let's work together to have these discussions on a routine basis.</p>
+                                  <p>Please let us know what days and times are better; we will do our best to accommodate your schedule and availability. 
+                                  <p>Thank you,</p>
+                                  <p>{!$User.Name__c}</p>
                                   <center>
-                                  <table class="button large primary centered">
+                                  <!-- <table class="button large primary centered">
                                     <tr>
                                       <td>
                                         <table>
@@ -1491,7 +1491,7 @@ body.outlook p {
                                         </table>
                                       </td>
                                     </tr>
-                                  </table>
+                                  </table> -->
                                 </center>
                                 </th>
                                 <th class="expander"></th>
@@ -1554,7 +1554,7 @@ body.outlook p {
                       </tr>
                     </table>
                     <center data-parsed="">
-                      <table align="center" class="menu float-center">
+                      <!-- <table align="center" class="menu float-center">
                         <tr>
                           <td>
                             <table>
@@ -1566,7 +1566,7 @@ body.outlook p {
                             </table>
                           </td>
                         </tr>
-                      </table>
+                      </table> -->
                     </center>
                   </td>
                 </tr>
